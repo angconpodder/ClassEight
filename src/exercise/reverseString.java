@@ -28,6 +28,7 @@ public class reverseString {
 		}
 		else{
 			System.out.println("Not Palindrome");
+			System.out.println("test");
 		}
 
 	}
